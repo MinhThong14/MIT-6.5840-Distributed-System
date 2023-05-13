@@ -31,14 +31,6 @@ There would be documentations covering the implemenation logic of each lab.
   - cd ~/src/main
   - bash test-mr.sh
 
-## Documents
-  <details>
-    <summary>Lab1</summary>
-    ### Implementation
-    ### Overview
-    ### Details
-  </details>
-
 ## Acknowledgements
 
 - I would like to thank [Prof. Robert Morris](http://nil.lcs.mit.edu/rtm/) and MIT for publicly launched the course for everyone
