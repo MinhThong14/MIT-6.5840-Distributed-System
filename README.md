@@ -33,4 +33,4 @@ There would be documentations covering the implemenation logic of each lab.
   - Lab 1: thank you, [Nisarg Shah](https://github.com/nisarg1499/MIT-6.824-Labs) for showing your work in this lab.
 
 ## Contributions
-- If you have any other ideas on labs' implementation or figure out any bugs/erros on my works, please feel free to create a Pull Request. I'm happy to discuss and learn from yours.
+- If you have another ideas on labs' implementation or figure out any bugs/erros on my works, please feel free to create a Pull Request. I'm happy to discuss and learn from yours.
