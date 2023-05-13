@@ -17,7 +17,7 @@ https://github.com/MinhThong14/MIT-6.5840-Distributed-System/assets/64180472/88e
 ## Work
 
 - [ ] Lab1 (MapReduce)
-  - [x] Implementaion ad distributed MapReduce
+  - [x] Implementation of distributed MapReduce
     - [x] coordinator.go
     - [x] rpc.go
     - [x] worker.go   
