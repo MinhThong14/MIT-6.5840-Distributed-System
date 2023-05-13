@@ -21,7 +21,7 @@ https://github.com/MinhThong14/MIT-6.5840-Distributed-System/assets/64180472/88e
     - [x] coordinator.go
     - [x] rpc.go
     - [x] worker.go   
-  - [ ] Handle crash of workers
+  - [x] Handle crash of workers
   - [ ] Documentation
 
 ## Instruction to run code
