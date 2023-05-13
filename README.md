@@ -32,7 +32,7 @@ There would be documentations covering the implemenation logic of each lab.
   - bash test-mr.sh
 
 ## Documents
-- [Lab1]([https://github.com/MinhThong14/MIT-6.5840-Distributed-System.wiki.git](https://github.com/MinhThong14/MIT-6.5840-Distributed-System/wiki/Lab1))
+- [Lab1]([https://github.com/MinhThong14/MIT-6.5840-Distributed-System.wiki.git](https://github.com/MinhThong14/MIT-6.5840-Distributed-System/wiki/Lab1)
 
 ## Acknowledgements
 
