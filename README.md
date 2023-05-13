@@ -14,6 +14,6 @@ You can find the course and labs description [Here](https://pdos.csail.mit.edu/6
 
 - [ ] Lab1 (MapReduce)
   - [ ] Implementaion ad distributed MapReduce
-    - [ ] corordinator.go
+    - [ ] coordinator.go
     - [ ] rpc.go
     - [ ] worker.go   
