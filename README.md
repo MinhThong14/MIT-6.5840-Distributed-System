@@ -12,7 +12,7 @@ You can find the course and labs description [Here](https://pdos.csail.mit.edu/6
 
 ## Demo
   ### Lab1
-   
+https://github.com/MinhThong14/MIT-6.5840-Distributed-System/assets/64180472/1fa5a38e-cd92-441d-8b4d-7e53892c6f49
 
 ## Work
 
