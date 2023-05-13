@@ -10,6 +10,10 @@ You can find the course and labs description [Here](https://pdos.csail.mit.edu/6
 
 6.5840 is a core 12-unit graduate subject with lectures, readings, programming labs, an optional project, a mid-term exam, and a final exam. It will present abstractions and implementation techniques for engineering distributed systems. Major topics include fault tolerance, replication, and consistency. Much of the class consists of studying and discussing case studies of distributed systems.
 
+## Demo
+  ### Lab1
+   
+
 ## Work
 
 - [ ] Lab1 (MapReduce)
@@ -20,10 +24,12 @@ You can find the course and labs description [Here](https://pdos.csail.mit.edu/6
   - [ ] Handle crash of workers
   - [ ] Documentation
 
-## Code
+## Instruction to run code
 
 There would be documentations covering the implemenation logic of each lab.
 - Lab1: The code are in src/mr
+  - cd ~/src/main
+  - bash test-mr.sh
 
 ## Acknowledgements
 
