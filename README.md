@@ -30,7 +30,7 @@ There would be documentations covering the implemenation logic of each lab.
 - I would like to thank [Prof. Robert Morris](http://nil.lcs.mit.edu/rtm/) and MIT for publicly launched the course for everyone
 
 - To fully understand and implement the labs, I have learn from a variety of sources below:
-  - Lab 1: Thank you [Nisarg Shah](https://github.com/nisarg1499/MIT-6.824-Labs) for showing your work in this lab.
+  - Lab 1: thank you, [Nisarg Shah](https://github.com/nisarg1499/MIT-6.824-Labs) for showing your work in this lab.
 
 ## Contributions
 - If you have any other ideas on labs' implementation or figure out any bugs/erros on my works, please feel free to create a Pull Request. I'm happy to discuss and learn from yours.
