@@ -33,7 +33,10 @@ There would be documentations covering the implemenation logic of each lab.
 
 ## Documents
   <details>
-    <summary>###Lab1</summary>
+    <summary>Lab1</summary>
+    ### Implementation
+    ### Overview
+    ### Details
   </details>
 
 ## Acknowledgements
