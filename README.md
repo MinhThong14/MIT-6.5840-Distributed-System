@@ -23,10 +23,10 @@ https://github.com/MinhThong14/MIT-6.5840-Distributed-System/assets/64180472/88e
     - [x] worker.go   
   - [x] Handle crash of workers
   - [x] Documentation
-- [] Lab2 (Raft Consensus Algorithm)
-  - [] Implementation of Lab2A (Leader election)
-  - [] Implementation of Lab2B
-  - [] Implementation of Lab2C
+- [ ] Lab2 (Raft Consensus Algorithm)
+  - [ ] Implementation of Lab2A (Leader election)
+  - [ ] Implementation of Lab2B
+  - [ ] Implementation of Lab2C
 ## Instruction to run code
 
 There would be documentations covering the implemenation logic of each lab.
